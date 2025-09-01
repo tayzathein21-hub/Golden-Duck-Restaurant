@@ -1,0 +1,17 @@
+body{
+    background-color: #ac3c5a;
+    }
+    nav{
+        background-color: #472b5d;
+        text-align: center;
+        padding: 20px;
+    }
+    a{
+        font-size: 20px;
+        color: #fff;
+        text-decoration: none;
+    }
+    a:hover{
+        color: #eaf596;
+        text-decoration: underline;
+    }
