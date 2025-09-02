@@ -1,15 +1,39 @@
+/*
+#ac3c5a -> body's background color
+#ffbf2d -> header's background color
+#472b5d -> menu's background color
+#892143 -> footer's background color
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 body{
     background-color: #ac3c5a;
+    }
+    header{
+        text-align: center;
+        background-color: #ffbf2d;
+        margin:0px 20%;
+        padding: 20px;
+    }
+    header h1{
+        color: #fff;
+        margin: 10px;
     }
     nav{
         background-color: #472b5d;
         text-align: center;
+        margin: 0px 20%;
         padding: 20px;
     }
     a{
         font-size: 20px;
         color: #fff;
         text-decoration: none;
+        padding: 10px;
     }
     a:hover{
         color: #eaf596;
