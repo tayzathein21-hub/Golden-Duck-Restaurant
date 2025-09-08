@@ -39,3 +39,24 @@ body{
         color: #eaf596;
         text-decoration: underline;
     }
+    section{
+        margin: 0px 20%;
+        background-color: beige;
+    }
+    section img{
+        width: 100%;
+    }
+    section p,h4{
+        margin: 40px;
+        line-height: 30px;
+    }
+    footer{
+        margin: 0px 20%;
+        text-align: center;
+        background-color: #892143;
+        color: #fff;
+        padding: 20px;
+    }
+    section{
+        padding: 40px;
+    }
