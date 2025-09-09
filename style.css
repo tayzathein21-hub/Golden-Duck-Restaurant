@@ -50,6 +50,15 @@ body{
         margin: 40px;
         line-height: 30px;
     }
+    table{
+        width: 60%;
+        border: 1px solid #ccc;
+    }
+    tr:hover{
+        background-color: red;
+        color: black;
+        font-size: 20px;
+    }
     footer{
         margin: 0px 20%;
         text-align: center;
